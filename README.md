@@ -8,6 +8,7 @@ Computer Engineering student at KMUTT, Bangkok. I build web apps, automation, AI
 |---------|------------|--------|
 | [CountCam](https://github.com/chasvitf/countcam) | AI vehicle and people counter: YOLO11 in the browser (WebGPU), line-crossing counts, CSV export, Python + ByteTrack version | [countcam-th.vercel.app](https://countcam-th.vercel.app) |
 | [SmartFarm](https://github.com/chasvitf/smartfarm-iot) | ESP32 greenhouse controller with MQTT over TLS and a live web dashboard, run on Wokwi | [smartfarm-th.vercel.app](https://smartfarm-th.vercel.app) |
+| [WaterTank](https://github.com/chasvitf/watertank-iot) | ESP32 water tank controller: ultrasonic level, automatic refill, pump stop when the level does not rise, alarms, MQTT dashboard, run on Wokwi | [watertank-th.vercel.app](https://watertank-th.vercel.app) |
 | [StockSheet](https://github.com/chasvitf/stocksheet) | Stock system on Google Sheets + Apps Script with alerts to Telegram, LINE and email | [screenshots](https://github.com/chasvitf/stocksheet#readme) |
 | [Thai oil prices](https://github.com/chasvitf/thai-oil-prices) | PTT vs Bangchak fuel prices scraped twice a day by GitHub Actions, one year of history, CSV / Excel export, alert when tomorrow's price is announced | [oilprice-th.vercel.app](https://oilprice-th.vercel.app) |
 | [Vibe Coding kit](https://github.com/chasvitf/vibe-coding-kit) | Thai beginner handout for building a first website with Claude Code: setup, 12 prompts, a 6-step class demo (one prompt per commit), PDF | [vibecoding-th.vercel.app](https://vibecoding-th.vercel.app) |
