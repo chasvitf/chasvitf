@@ -10,6 +10,7 @@ Computer Engineering student at KMUTT, Bangkok. I build web apps, automation, AI
 | [SmartFarm](https://github.com/chasvitf/smartfarm-iot) | ESP32 greenhouse controller with MQTT over TLS and a live web dashboard, run on Wokwi | [smartfarm-th.vercel.app](https://smartfarm-th.vercel.app) |
 | [StockSheet](https://github.com/chasvitf/stocksheet) | Stock system on Google Sheets + Apps Script with alerts to Telegram, LINE and email | [screenshots](https://github.com/chasvitf/stocksheet#readme) |
 | [Thai oil prices](https://github.com/chasvitf/thai-oil-prices) | PTT vs Bangchak fuel prices scraped twice a day by GitHub Actions, one year of history, CSV / Excel export, alert when tomorrow's price is announced | [oilprice-th.vercel.app](https://oilprice-th.vercel.app) |
+| [Vibe Coding kit](https://github.com/chasvitf/vibe-coding-kit) | Thai beginner handout for building a first website with Claude Code: setup, 12 prompts, a 6-step class demo (one prompt per commit), PDF | [vibecoding-th.vercel.app](https://vibecoding-th.vercel.app) |
 | [บ้านขนมปัง](https://github.com/chasvitf/baankanompang) | Landing page for a fictional bakery: menu with prices, LINE ordering, auto dark mode; Lighthouse 96–100 in every category | [baankanompang.vercel.app](https://baankanompang.vercel.app) |
 | OPC Price TH | One Piece Card Game prices in Thai baht: data from 3 Japanese sites refreshed every 3 days, 4,000+ cards | [opcprice.vercel.app](https://opcprice.vercel.app) |
 
